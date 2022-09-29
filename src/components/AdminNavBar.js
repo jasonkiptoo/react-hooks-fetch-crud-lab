@@ -7,6 +7,6 @@ function AdminNavBar({ onChangePage }) {
       <button onClick={() => onChangePage("List")}>View Questions</button>
     </nav>
   );
-}
+} 
 
 export default AdminNavBar;
